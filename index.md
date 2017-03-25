@@ -18,6 +18,6 @@ arising in tools commonly used for studying biological data (e.g I love [this pi
 
 If you'd like, contact me at [gwilson18@berkeley.edu](gwilson18@berkeley.edu).
 
-- [Papers/Projects](https://guyhwilson.github.io/)
+- [Papers/Projects](https://guyhwilson.github.io/stuff)
 - [LinkedIn](https://www.linkedin.com/in/guy-wilson)
 - [Github](https://github.com/ekpyrotic)

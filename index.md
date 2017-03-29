@@ -1,3 +1,6 @@
+---
+title: Abstract Nonsense
+---
 # Howdy, I'm Guy.
 
 I'm an undergraduate at UC Berkeley studying molecular & cell biology and mathematics. Aside from academics, I 

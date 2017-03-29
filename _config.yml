@@ -1,2 +1,5 @@
 title: Abstract Nonsense
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    My-Header: Abstract Nonsense

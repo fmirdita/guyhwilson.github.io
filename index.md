@@ -14,10 +14,10 @@ Saunders Mac Lane, a mathematician deeply involved in the creation of category t
 I'm deeply fascinated by the field of algebraic topology and its applications in data analysis, especially in the realm of neuroscience. 
 This includes machinery developed for studying structural features of data, 
 such as [persistent homology](https://www.youtube.com/watch?v=h0bnG1Wavag), as well as theoretical considerations and limitations
-arising in tools commonly used for studying biological data (e.g I love [this piece](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)). I currently work in the Knight Lab as an undergraduate research assistant where I'm studying neural oscillations and their role in organizing activity and behavior.  
+arising in tools commonly used for studying biological data (e.g I love [this piece](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)). As far as biology, I'm fascinated by oscillatory networks in the brain and their circuit and cellular origins. I currently work in the Knight Lab as an undergraduate research assistant where I'm studying neural oscillations and their role in organizing activity and behavior.  
 
 If you'd like, contact me at [gwilson18@berkeley.edu](gwilson18@berkeley.edu).
 
 - [Papers/Projects](https://guyhwilson.github.io/stuff/)
 - [LinkedIn](https://www.linkedin.com/in/guy-wilson)
-- [Github](https://github.com/ekpyrotic)
+- [Github](https://github.com/guyhwilson)

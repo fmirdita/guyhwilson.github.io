@@ -1,3 +1,7 @@
+---
+title: Abstract Nonsense
+layout: cayman
+---
 
 # Howdy, I'm Guy.
 

@@ -1,5 +1,8 @@
 # Publications 
-~ soon~
+[Prefrontal cortex modulates posterior alpha oscillations during top-down guided visual perception](http://www.pnas.org/content/114/35/9457.short)
+
+Persistent Homology of Global Functional Connectivity for Depression Classification
+(*in review*)
 
 # Projects/Writeups 
 [Protein structure determination project](https://guyhwilson.github.io/stuff/cryoEM.pdf)  
